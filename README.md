@@ -8,6 +8,6 @@ Applications:
 Basic mathematic computations.
 
 References Used:
-stackoverflow.com
-geeksforgeeks
+stackoverflow,
+geeksforgeeks,
 github
